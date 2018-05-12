@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '34530'
     url: http://www.gutenberg.org/2009/agents/34530
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30620#Two-New-Pelycosaurs-from-the-Lower-Permian-of-Oklahoma
 gutenberg_issued: '2009-12-07'
 gutenberg_type: Text
 identifiers:
