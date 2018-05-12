@@ -1,0 +1,26 @@
+_repo: Two-New-Pelycosaurs-from-the-Lower-Permian-of-Oklahoma_30620
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fox, Richard C.
+    alias: Fox, R. C. (Richard C.)
+    gutenberg_agent_id: '34530'
+    url: http://www.gutenberg.org/2009/agents/34530
+description: ''
+gutenberg_issued: '2009-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30620'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pelycosauria'
+- !lcsh 'Paleontology -- Permian'
+- !lcc 'QH'
+title: Two New Pelycosaurs from the Lower Permian of Oklahoma
+url: http://www.gutenberg.org/ebooks/30620
